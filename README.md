@@ -1,10 +1,10 @@
 # ScanImei
 
-A new Flutter project.
+Proyecto fluter para escaneal imeis y optimizado para los 15 digitos.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+apenas y el esqueleto de una app flutter modificada con algunas librerias.
 
 A few resources to get you started if this is your first Flutter project:
 
